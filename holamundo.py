@@ -4,3 +4,5 @@ a = 300
 resultador = a + 200
 
 """NUEVAS LINEAS DE CODIGO"""
+
+COMPROBANDO ACTIVIDAD
